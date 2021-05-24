@@ -8,5 +8,5 @@ Per l'esecuzione basterà accedere al server tramite browser (es. localhost), ac
 
 # Nota
 Tutti i file dovranno stare nella stessa cartella ('Homework_1') e le immagini all'interno della cartella 'Immagini'.</br>
-Il file 'progetto_ristoranti.sql' è un file contenente le informazioni riguardanti il database, con il relativo codice e i relativi dati.
+Il file 'progetto_ristoranti.sql' è un file contenente le informazioni riguardanti il database, con il relativo codice e i relativi dati.<br>
 Questa cartella 'Homework_1' contiene al suo interno tutti i progetti precedenti ('MiniHomework') con opportune modifiche.
